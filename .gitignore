@@ -1,0 +1,9 @@
+*.a
+*.cmake
+*.pc
+bin/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+NeuronSimple
+NeuronTests
